@@ -14,4 +14,5 @@ TA: Renato Paredes
 Project TA: Raghuram Diddigi
 
 1- Rosenberg M, Zhang T, Perona P, Meister M. Mice in a labyrinth show rapid learning, sudden insight, and efficient exploration. Elife. 2021 Jul 1;10:e66175. doi: 10.7554/eLife.66175. PMID: 34196271; PMCID: PMC8294850.
+
 2- https://gym.openai.com/envs/Taxi-v3/
